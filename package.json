@@ -1,7 +1,7 @@
 {
   "name": "unique-token",
   "version": "1.0.0",
-  "description": "Generates unique token",
+  "description": "Generate unique token or a random character string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "Token",
     "Unique",
-    "UUID"
+    "UUID",
+    "Random"
   ],
   "author": "Jugnu Agrawal",
   "license": "MIT",
