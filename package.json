@@ -1,0 +1,24 @@
+{
+  "name": "unique-token",
+  "version": "1.0.0",
+  "description": "Generates unique token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugnuagrawal/unique-token.git"
+  },
+  "keywords": [
+    "Token",
+    "Unique",
+    "UUID"
+  ],
+  "author": "Jugnu Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jugnuagrawal/unique-token/issues"
+  },
+  "homepage": "https://github.com/jugnuagrawal/unique-token#readme"
+}
